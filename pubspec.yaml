@@ -1,0 +1,18 @@
+name: simple_stepper
+description: A simple stepper widget based on material design.
+version: 0.0.1
+author: jawad89@gmail.com
+homepage: https://github.com/jawwad-hassan89
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
